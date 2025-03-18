@@ -4,7 +4,8 @@
 🤓 Naturally a backend developer, but stepping into the frontend world with curiosity and a desire to grow full-stack..<br>
 
 ## About me 🙋‍♂️
-- 🚀 Passionate about software development and cars.
+- 🚀 Passionate about software development and always eager to solve problems through code.
+- 🚗 Car enthusiast—curious about how things work, whether it’s engines or software.
 - 🎓 Recently graduated with a degree in Software Engineering.
 - 💻 2 years of experience working in a software development company.
 - 🎯 This year’s goal: Become even more dedicated to learning and mastering everything related to programming.
