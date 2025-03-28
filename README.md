@@ -1,5 +1,5 @@
 <!-- Heading -->
-# <b>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alejandro Hernandez. <sub style="font-size: 15px; font-style: italic">I'm a software engineer.</sub><br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darien-alejandro-hernandez-tellez-663a09341) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alejandrxssj_)</b>
+# <b>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alejandro Hernandez. <sub style="font-size: 15px; font-style: italic">I'm a software engineer JR.</sub><br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darien-alejandro-hernandez-tellez-663a09341) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alejandrxssj_)</b>
 
 🤓 Naturally a backend developer, but stepping into the frontend world with curiosity and a desire to grow full-stack..<br>
 
